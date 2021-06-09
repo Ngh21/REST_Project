@@ -1,0 +1,7 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\NatE\\.vscode\\extensions\\redhat.java-0.79.2\\server\\plugins\\javax.inject_1.0.0.v20091030.jar"
+    ],
+    "java.dependency.packagePresentation": "hierarchical"
+}
