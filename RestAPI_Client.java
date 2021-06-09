@@ -7,11 +7,12 @@ import java.util.Scanner;
 
 import javax.lang.model.util.ElementScanner14;
 
+import org.json.JSONException;
 import org.json.JSONObject;
 
 public class RestAPI_Client {
 
-    public static void main (String[] args) throws IOException {
+    public static void main (String[] args) throws IOException, JSONException{
 
         Scanner scanner = new Scanner(System.in);
 
